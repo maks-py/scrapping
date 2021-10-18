@@ -1,0 +1,19 @@
+{
+    "url" : "https://www.avito.ru/moskva_i_mo/kvartiry/sdam/na_dlitelnyy_srok-ASgBAgICAkSSA8gQ8AeQUg?cd=2&p=",
+    "page_count" : 1,
+
+   "product_card" : {
+        "tag" : "div",
+        "class" : "iva-item-content-UnQQ4"
+    },
+    "fields" : {
+        "title" : {
+            "tag" : "h3",
+            "class" : "title-root-j7cja iva-item-title-_qCwt title-listRedesign-XHq38 title-root_maxHeight-SXHes text-text-LurtD text-size-s-BxGpL text-bold-SinUO"
+        },
+        "price" : {
+            "tag" : "span",
+            "class" : "price-text-E1Y7h text-text-LurtD text-size-s-BxGpL"
+        }
+    }
+}

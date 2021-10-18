@@ -1,0 +1,36 @@
+{
+    "url" : "https://www.avito.ru/moskva_i_mo/avtomobili/audi-ASgBAgICAUTgtg3elyg?cd=1&p=",
+    "page_count" : 2,
+
+   "product_card" : {
+        "tag" : "div",
+        "class" : "iva-item-content-UnQQ4"
+    },
+    "fields" : {
+        "title" : {
+            "tag" : "h3",
+            "class" : "title-root-j7cja iva-item-title-_qCwt title-listRedesign-XHq38 title-root_maxHeight-SXHes text-text-LurtD text-size-s-BxGpL text-bold-SinUO"
+        },
+        "price" : {
+            "tag" : "span",
+            "class" : "price-text-E1Y7h text-text-LurtD text-size-s-BxGpL"
+        },
+        "description" : {
+            "tag" : "div",
+            "class" : "iva-item-text-_s_vh text-text-LurtD text-size-s-BxGpL"
+        }
+    }
+}
+
+
+/*
+
+url - путь к странице html без её номера 
+
+page_count - количество страник которое хочется спарсить
+
+product_card - тег и класс карточки товара, из которой будет вычитана нужная информация
+
+fields - набор имен полей и их параметров в карточке товара.
+
+*/
